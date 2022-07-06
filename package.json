@@ -1,0 +1,21 @@
+{
+    "name": "react-native-photo-editor",
+    "version": "0.0.8",
+    "description": "React Native: Native Photo Editor",
+    "main": "RNPhotoEditor.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/naoey/react-native-photo-editor.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native"
+    ],
+    "author": "Pranav Raj Singh Chauhan",
+    "devDependencies": {
+        "prettier-pack": "0.0.8"
+    },
+    "license": "Apache License 2.0"
+}
